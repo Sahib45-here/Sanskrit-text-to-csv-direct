@@ -1,0 +1,6 @@
+{
+  "name": "Samskrita - ISO to Devanagari CSV Converter",
+  "description": "Linguistic processor that converts transliterated Sanskrit (ISO 15919, IAST) into clean, structured CSV datasets with parallel Devanagari script, automated section parsing, verse numbering, and web noise sanitization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
